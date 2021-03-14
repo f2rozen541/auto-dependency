@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.f2rozen541.autodependency.services
 
+import com.github.f2rozen541.autodependency.MyBundle
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
 
 class MyProjectService(project: Project) {
 

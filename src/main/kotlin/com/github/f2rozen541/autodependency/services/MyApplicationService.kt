@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.f2rozen541.autodependency.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.f2rozen541.autodependency.MyBundle
 
 class MyApplicationService {
 
